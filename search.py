@@ -52,7 +52,7 @@ with open(TEXT_FILENAME, "rb") as f:
 print(f"\nSUCCESS! Loaded {index.ntotal} sentences into memory.")
 print("\n" + "=>  MULTILINGUAL SEMANTIC CONCORDANCER <=")
 
-# Step 4: The Interactive Loop
+# Input loop, what senetnce do you want to search?
 while True:
     query = input("\nEnter a search query (or type 'exit' to quit): \n> ")
     
