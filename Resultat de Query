@@ -1,0 +1,37 @@
+Enter a search query (or type 'exit' to quit): 
+> Donald Trump is and orange idiot. 
+
+--------------------------------------------------
+Match 1 | Similarity Score: 0.7409
+--------------------------------------------------
+      [GUARDIAN] The proposal features a $ 2tn error. "
+  >>> [GUARDIAN] There 's a simple explanation for why this happened : Donald Trump is an idiot, " he said.
+      [GUARDIAN] When budget director Mick Mulvaney defended the math, he said it was deliberate and that they wanted to be careful to avoid making too many assumptions. "
+
+--------------------------------------------------
+Match 2 | Similarity Score: 0.6921
+--------------------------------------------------
+      [GUARDIAN] Publication : The American Conservative Why you should read it : Dreher 's short, sharp post shows that the bizarre circumstances surrounding Trump 's firing of Comey have perplexed people across the political spectrum.
+  >>> [GUARDIAN] Excerpt : " Either Trump is a colossal idiot, or he is hiding something, and is a colossal idiot about trying to cover it up.
+      [GUARDIAN] Either way, I do n't see how anybody can take what Trump has done here at face value. "
+
+--------------------------------------------------
+Match 3 | Similarity Score: 0.6801
+--------------------------------------------------
+      [GUARDIAN] The psychological determinants of presidential decision - making have previously been nuanced and complex, rooted in the individual 's experience and an understanding of society, nuclear policy, geopolitics and history.
+  >>> [GUARDIAN] President Donald Trump seems brash and irrational in comparison.
+      [GUARDIAN] Let 's explore how different factions of the social sciences define rationality, to discover if Trump or the new act is rational.
+
+--------------------------------------------------
+Match 4 | Similarity Score: 0.6784
+--------------------------------------------------
+      [GUARDIAN] Its owners Photoshop gifs of the president holding up executive orders to polite applause, but the text has been replaced with the kind of drawings a very young child might produce.
+  >>> [GUARDIAN] Obviously, the central joke is that Trump is stupid, and the fact his idiocy is being not only sanctioned but lauded is scary.
+      [GUARDIAN] But the dogged repetition of the joke by the account detaches the disturbing context from the images, instead propelling them into the realm of surreality in a way that is hypnotically soothing.
+
+--------------------------------------------------
+Match 5 | Similarity Score: 0.6688
+--------------------------------------------------
+      [GUARDIAN] Noah ended with a theory that maybe Trump 's plan is actually going to work after all. "
+  >>> [GUARDIAN] Trump is either a genius or he is the biggest idiot the world has ever seen 'cause I honestly wonder if Trump 's plan is to be such a bumbling fool that Israel and Palestine are going to get together in a room and say : ‘ I think we can both agree that guy 's a fucking moron, '" he said.
+      [GUARDIAN] On Full Frontal with Samantha Bee, the comic discussed the many changes that have happened in the last few weeks that most people are unaware of, rsaying the Republican Congress had gone " hog wild like Amish twins on a Rumspringa ".
